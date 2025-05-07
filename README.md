@@ -33,6 +33,6 @@ https://trello.com/b/q3uxQYxl/analisis-y-metodologia-de-sistemas
 #Autora
 **Ariadna.Higa**
 [Repositorio en GitHub] 
-
+https://github.com/AriadnaHiga/-Proyecto-de-An-lisis-y-Metodolog-as-de-Sistemas-Primer-Parcial.git
 
 # Proyecto-Analisis-Metodologias-PRIMER-PARCIAL-2025
