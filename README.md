@@ -17,8 +17,8 @@ Simular un sistema de carga de pedidos en una empresa, aplicando principios de v
 - Si hay errores, muestra un mensaje y permite reintentar.
 
 #Gestión del proyecto 
-(Proceso por el cual previo al codeo se planifica, organiza, coordina y controla todas las actividades necesarias para alcanzar los objetivos del proyecto (ESTAR 
-ORGANIZADO)) ACA ES DONDE PONEMOS LOS TABLEROS DE HERRAMIENTAS DE MIRO, TRELLO, ETC. 
+(Proceso por el cual previo al codeo se planifica, organiza, coordina y controla todas las actividades necesarias para alcanzar los objetivos del proyecto 
+(ESTAR ORGANIZADO)) ACA ES DONDE PONEMOS LOS TABLEROS DE HERRAMIENTAS DE MIRO, TRELLO, ETC. 
 🔗 [Ver Tablero de Miro] 
 https://miro.com/app/board/uXjVI8Ulhq4=/ 
 🔗 [Ver Tablero en Trello]
