@@ -1,4 +1,4 @@
-# -Proyecto-de-An-lisis-y-Metodolog-as-de-Sistemas-Primer-Parcial
+# Proyecto-Analisis-Metodologias-PRIMER-PARCIAL-2025
 Este proyecto consiste en un sistema básico de administración de pedidos para la empresa ficticia **Barc.Co**, desarrollado en Python. 
 El sistema solicita al usuario ingresar su información personal y un pedido, validando que los datos sean correctos antes de confirmarlos.
 
@@ -35,4 +35,4 @@ https://trello.com/b/q3uxQYxl/analisis-y-metodologia-de-sistemas
 [Repositorio en GitHub] 
 https://github.com/AriadnaHiga/-Proyecto-de-An-lisis-y-Metodolog-as-de-Sistemas-Primer-Parcial.git
 
-# Proyecto-Analisis-Metodologias-PRIMER-PARCIAL-2025
+
